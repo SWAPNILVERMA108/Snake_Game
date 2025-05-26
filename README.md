@@ -17,6 +17,7 @@ A fun, interactive **Snake Game** built using **Java Swing**! The game challenge
    
 
 🖥️ Technologies Used : 
+
 Java Swing for UI rendering.
 
 JPanel for the game interface.
