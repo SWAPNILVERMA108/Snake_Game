@@ -27,8 +27,8 @@ KeyListener for user controls.
 
 
 ✨ Future Improvements : 
-Add a scoring system 🏆.
 
+Add a scoring system 🏆.
 Introduce difficulty levels 🎯.
 
 Implement a pause/resume feature ⏸️.
